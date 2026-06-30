@@ -15,13 +15,13 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Saulo.Saulo" />
 </div>
 
-<h1 align="center">Olá, tudo bem? 👋</h1>
+<h1 align="center">olá, tudo bem? 👋</h1>
 
 <h3 align="left">👨‍💻 Sobre mim</h3>
 
 <p align="left">
-Sou o Saulo, desenvolvedor Java.<br><br>
-- 🔭 Trabalho principalmente com Java Spring Boot e React<br>
+Sou o Saulo, desenvolvedor Fullstack.<br><br>
+- 🔭 Trabalho com Java/Spring no back-end e React no front-end<br>
 - 🌐 Conheça meu portfólio: <a href="https://portifolio-402f4.web.app/#home">portifolio-402f4.web.app</a><br>
 - 📫 Me encontre no <a href="https://www.linkedin.com/feed/">LinkedIn</a>
 </p>
