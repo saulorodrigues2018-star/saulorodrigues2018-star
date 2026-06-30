@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Saulo.Saulo" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=saulorodrigues2018-star.saulorodrigues2018-star" />
 </div>
 
 <h1 align="center">olá, tudo bem? 👋</h1>
@@ -50,7 +50,9 @@ Sou o Saulo, desenvolvedor Fullstack.<br><br>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven badge" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="junit badge" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="swagger badge" />
-
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws badge" />
 </div>
 
 <p align="left">
@@ -60,5 +62,5 @@ Sou o Saulo, desenvolvedor Fullstack.<br><br>
 <h3 align="left">🔥 Minhas estatísticas:</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Saulo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=saulorodrigues2018-star&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
