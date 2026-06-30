@@ -15,24 +15,70 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Saulo.Saulo" />
 </div>
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">olá, tudo bem? 👋</h1>
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left">👨‍💻 Sobre mim</h3>
 
 <p align="left">
-I'm Saulo, a Java developer.<br><br>
-- 🔭 I'm working with Java<br>
-- 🌐 Check out my portfolio: <a href="https://portifolio-402f4.web.app/#home">portifolio-402f4.web.app</a><br>
-- 📫 Find me on <a href="https://www.linkedin.com/feed/">LinkedIn</a>
+Sou o Saulo, desenvolvedor Java.<br><br>
+- 🔭 Trabalho principalmente com Java e Spring<br>
+- 🌐 Conheça meu portfólio: <a href="https://portifolio-402f4.web.app/#home">portifolio-402f4.web.app</a><br>
+- 📫 Me encontre no <a href="https://www.linkedin.com/feed/">LinkedIn</a>
 </p>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e tecnologias</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="hibernate logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="bootstrap logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" alt="mongodb logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg" height="40" alt="maven logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" height="40" alt="junit logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
 </div>
 
-<h3 align="left">🔥 My Stats:</h3>
+<p align="left">
+<b>Outras ferramentas e práticas:</b> Spring Security, Spring Data JPA, REST APIs, JWT, Docker Compose, OpenAPI, MVC, Clean Architecture, SOLID, Microsserviços, Scrum, Mockito
+</p>
+
+<h3 align="left">🔥 Minhas estatísticas:</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Saulo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
